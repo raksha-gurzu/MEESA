@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# User-uploaded and generated images (keep folders, ignore contents)
+images/*
+!images/.gitkeep
+generated/*
+!generated/.gitkeep
+
+# Catalog assets are committed: products/catalog.json, products/raw/*.jpg,
+# products/cleaned/*.png. Nothing under products/ is ignored.
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/

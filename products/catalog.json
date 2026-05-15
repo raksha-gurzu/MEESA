@@ -1,0 +1,72 @@
+[
+  {
+    "id": "P01",
+    "name": "Contrast Premium Kurti",
+    "size": "XL",
+    "color": "Green & Red",
+    "image": "products/raw/P01.jpg"
+  },
+  {
+    "id": "P02",
+    "name": "Super Soft Cotton kurti Set",
+    "size": "XL",
+    "color": "Blue",
+    "image": "products/raw/P02.jpg"
+  },
+  {
+    "id": "P03",
+    "name": "Parrot Green Kurti Set",
+    "size": "XL",
+    "color": "Parrot Green",
+    "image": "products/raw/P03.jpg"
+  },
+  {
+    "id": "P04",
+    "name": "Floral Fitted Dress",
+    "size": "M",
+    "color": "Blue",
+    "image": "products/raw/P04.jpg"
+  },
+  {
+    "id": "P05",
+    "name": "Formal jumpsuit",
+    "size": "M",
+    "color": "Floral",
+    "image": "products/raw/P05.jpg"
+  },
+  {
+    "id": "P06",
+    "name": "Trendy Floral Printed Kurta with Pants",
+    "size": "XXL",
+    "color": "Off-White",
+    "image": "products/raw/P06.jpg"
+  },
+  {
+    "id": "P07",
+    "name": "Rayon Embroidered Straight Kurta",
+    "size": "XL",
+    "color": "Yellow",
+    "image": "products/raw/P07.jpg"
+  },
+  {
+    "id": "P08",
+    "name": "2 Piece Night Dress Set",
+    "size": "XL",
+    "color": "Creamy White",
+    "image": "products/raw/P08.jpg"
+  },
+  {
+    "id": "P09",
+    "name": "Peacock Print Co-ord Kurtha Set",
+    "size": "XL",
+    "color": "Black",
+    "image": "products/raw/P09.jpg"
+  },
+  {
+    "id": "P10",
+    "name": "3 Piece Multicolor Korean Night Dress Set",
+    "size": "XXL",
+    "color": "Creamy",
+    "image": "products/raw/P10.jpg"
+  }
+]
